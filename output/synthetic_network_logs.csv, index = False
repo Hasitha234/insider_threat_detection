@@ -1,0 +1,71 @@
+,timestamp,user_id,machine_id,ip_address,location_type,city,country,connection_type,vpn_used
+0,2024-01-01 14:52:43,EMP001,PC-HR-03,172.16.154,remote,Toronto,Canada,mobile,False
+1,2024-01-01 10:03:40,EMP001,PC-FINANCE-01,10.0.0.157,home,London,Canada,wifi,False
+2,2024-01-01 17:56:12,EMP001,LAPTOP-001,192.168.1.171,office,Tokyo,Japan,ethernet,False
+3,2024-01-01 09:18:56,EMP001,LAPTOP-002,203.45.191,public,Sydney,Australia,mobile,True
+4,2024-01-01 17:15:44,EMP001,PC-FINANCE-01,203.45.175,public,New York,USA,vpn,True
+5,2024-01-01 10:59:45,EMP002,PC-FINANCE-01,192.168.1.110,office,London,UK,mobile,False
+6,2024-01-01 16:03:41,EMP002,PC-FINANCE-01,10.0.0.90,home,Sydney,Australia,mobile,False
+7,2024-01-01 09:15:34,EMP003,LAPTOP-002,192.168.1.158,office,Tokyo,UK,wifi,False
+8,2024-01-01 11:35:12,EMP003,PC-FINANCE-01,192.168.1.235,office,London,Japan,ethernet,False
+9,2024-01-01 17:51:16,EMP003,PC-ENG-02,192.168.1.43,office,New York,UK,wifi,True
+10,2024-01-02 11:17:04,EMP001,LAPTOP-001,172.16.51,remote,Toronto,Australia,ethernet,True
+11,2024-01-02 10:49:21,EMP001,PC-FINANCE-01,203.45.45,public,London,USA,ethernet,False
+12,2024-01-02 15:03:47,EMP001,PC-FINANCE-01,10.0.0.184,home,New York,Canada,ethernet,False
+13,2024-01-02 17:52:09,EMP001,PC-FINANCE-01,172.16.172,remote,Tokyo,UK,ethernet,True
+14,2024-01-02 14:07:36,EMP002,PC-FINANCE-01,10.0.0.234,home,London,Japan,wifi,False
+15,2024-01-02 11:35:53,EMP002,LAPTOP-002,192.168.1.103,office,Sydney,Australia,mobile,False
+16,2024-01-02 17:57:05,EMP002,PC-ENG-02,192.168.1.177,office,Tokyo,UK,ethernet,False
+17,2024-01-02 15:15:34,EMP002,PC-ENG-02,192.168.1.168,office,New York,UK,mobile,True
+18,2024-01-02 15:33:10,EMP003,LAPTOP-001,172.16.19,remote,Toronto,UK,wifi,True
+19,2024-01-02 16:43:14,EMP003,LAPTOP-002,10.0.0.207,home,Sydney,Canada,mobile,False
+20,2024-01-02 14:10:16,EMP003,PC-HR-03,192.168.1.146,office,New York,USA,mobile,False
+21,2024-01-02 15:16:05,EMP003,LAPTOP-002,192.168.1.209,office,Sydney,Canada,ethernet,False
+22,2024-01-02 17:27:30,EMP003,LAPTOP-002,10.0.0.213,home,New York,Japan,wifi,False
+23,2024-01-03 15:08:11,EMP001,PC-ENG-02,192.168.1.224,office,Sydney,USA,wifi,False
+24,2024-01-03 12:10:00,EMP001,PC-ENG-02,192.168.1.20,office,Tokyo,Canada,mobile,False
+25,2024-01-03 17:18:18,EMP001,PC-HR-03,10.0.0.119,home,Sydney,Canada,ethernet,False
+26,2024-01-03 17:38:10,EMP001,PC-ENG-02,192.168.1.9,office,Tokyo,Australia,vpn,True
+27,2024-01-03 09:32:50,EMP001,PC-FINANCE-01,203.45.208,public,London,Japan,ethernet,True
+28,2024-01-03 13:50:50,EMP002,LAPTOP-001,192.168.1.202,office,New York,Australia,mobile,False
+29,2024-01-03 17:39:31,EMP002,LAPTOP-002,192.168.1.128,office,Tokyo,UK,vpn,True
+30,2024-01-03 10:29:32,EMP003,PC-ENG-02,10.0.0.23,home,Tokyo,Japan,vpn,True
+31,2024-01-03 16:38:33,EMP003,LAPTOP-002,192.168.1.203,office,London,Canada,ethernet,False
+32,2024-01-04 16:24:46,EMP001,PC-HR-03,192.168.1.40,office,Tokyo,Japan,wifi,False
+33,2024-01-04 16:47:45,EMP001,PC-ENG-02,192.168.1.162,office,Tokyo,Japan,mobile,False
+34,2024-01-04 12:43:19,EMP002,PC-ENG-02,203.45.121,public,London,Canada,vpn,True
+35,2024-01-04 13:39:28,EMP002,LAPTOP-001,203.45.244,public,Sydney,Australia,mobile,True
+36,2024-01-04 12:14:03,EMP002,PC-HR-03,10.0.0.249,home,London,Canada,vpn,True
+37,2024-01-04 14:14:17,EMP002,PC-HR-03,10.0.0.209,home,London,USA,wifi,True
+38,2024-01-04 10:46:05,EMP002,LAPTOP-002,203.45.196,public,London,Australia,ethernet,True
+39,2024-01-04 16:30:59,EMP003,PC-ENG-02,203.45.174,public,Toronto,USA,ethernet,True
+40,2024-01-04 14:48:25,EMP003,PC-HR-03,172.16.133,remote,Toronto,Canada,vpn,True
+41,2024-01-04 13:06:21,EMP003,PC-HR-03,10.0.0.62,home,Sydney,Japan,ethernet,False
+42,2024-01-04 12:00:21,EMP003,PC-ENG-02,192.168.1.207,office,London,UK,ethernet,False
+43,2024-01-05 11:18:01,EMP001,LAPTOP-001,10.0.0.69,home,New York,USA,mobile,False
+44,2024-01-05 17:56:38,EMP001,PC-ENG-02,192.168.1.68,office,New York,UK,mobile,False
+45,2024-01-05 13:32:54,EMP002,LAPTOP-002,172.16.240,remote,London,UK,wifi,False
+46,2024-01-05 17:32:10,EMP002,LAPTOP-002,10.0.0.86,home,Toronto,USA,vpn,True
+47,2024-01-05 13:31:40,EMP002,LAPTOP-002,192.168.1.103,office,Sydney,Canada,wifi,False
+48,2024-01-05 10:41:52,EMP002,PC-HR-03,192.168.1.72,office,London,USA,wifi,False
+49,2024-01-05 18:21:22,EMP002,LAPTOP-002,10.0.0.164,home,Tokyo,Australia,vpn,True
+50,2024-01-05 15:24:20,EMP003,PC-FINANCE-01,203.45.24,public,Tokyo,Japan,ethernet,True
+51,2024-01-05 16:18:44,EMP003,PC-HR-03,192.168.1.86,office,London,USA,vpn,True
+52,2024-01-05 10:32:27,EMP003,PC-HR-03,203.45.254,public,Toronto,USA,mobile,False
+53,2024-01-06 10:12:06,EMP001,LAPTOP-001,10.0.0.119,home,Tokyo,Canada,wifi,False
+54,2024-01-06 15:19:35,EMP001,LAPTOP-001,10.0.0.218,home,Toronto,Australia,ethernet,False
+55,2024-01-06 11:51:42,EMP002,LAPTOP-001,10.0.0.143,home,Tokyo,Australia,mobile,False
+56,2024-01-06 10:06:17,EMP002,LAPTOP-002,192.168.1.148,office,Tokyo,UK,wifi,True
+57,2024-01-06 11:59:31,EMP002,PC-ENG-02,203.45.244,public,Sydney,Australia,mobile,True
+58,2024-01-06 14:09:48,EMP003,PC-FINANCE-01,10.0.0.109,home,New York,USA,mobile,True
+59,2024-01-06 12:32:57,EMP003,LAPTOP-001,192.168.1.192,office,Sydney,USA,mobile,False
+60,2024-01-06 11:13:54,EMP003,PC-FINANCE-01,203.45.15,public,New York,Canada,wifi,True
+61,2024-01-06 08:57:57,EMP003,LAPTOP-002,172.16.61,remote,New York,UK,wifi,False
+62,2024-01-07 09:59:01,EMP001,LAPTOP-002,192.168.1.125,office,Toronto,Australia,mobile,True
+63,2024-01-07 14:41:03,EMP001,PC-HR-03,10.0.0.55,home,London,Japan,mobile,False
+64,2024-01-07 13:02:07,EMP001,LAPTOP-002,192.168.1.235,office,Tokyo,Canada,ethernet,False
+65,2024-01-07 11:04:34,EMP001,PC-FINANCE-01,203.45.112,public,Sydney,UK,wifi,True
+66,2024-01-07 15:33:51,EMP002,LAPTOP-001,172.16.157,remote,New York,Japan,wifi,True
+67,2024-01-07 10:30:49,EMP002,PC-HR-03,10.0.0.123,home,Tokyo,Canada,mobile,False
+68,2024-01-07 10:36:22,EMP003,PC-FINANCE-01,10.0.0.142,home,Tokyo,USA,mobile,False
+69,2024-01-07 16:41:08,EMP003,PC-HR-03,203.45.207,public,New York,Australia,wifi,False
